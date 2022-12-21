@@ -1,6 +1,18 @@
-# elves
+# Elves
 
 An Advent Of Code utils crate
+
+<!-- Please read the [API documentation here](https://docs.rs/itertools/). -->
+
+<!-- [![build_status](https://github.com/rust-itertools/itertools/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-itertools/itertools/actions) -->
+[![crates.io](https://img.shields.io/crates/v/elves.svg)](https://crates.io/crates/elves)
+
+How to use with Cargo:
+
+```toml
+[dependencies]
+elves = "0.0.2"
+```
 
 ## Project goals
 
