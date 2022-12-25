@@ -11,7 +11,7 @@ How to use with Cargo:
 
 ```toml
 [dependencies]
-elves = "0.1.0"
+elves = "0.2.0"
 ```
 
 ## Project goals
