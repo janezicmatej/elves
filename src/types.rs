@@ -28,7 +28,7 @@ where
 /// Nested array, e.g.: [1,[2,3],4,[[5]]]. Useful for days like
 /// [2022/13](https://adventofcode.com/2022/day/13) or
 /// [2022/18](https://adventofcode.com/2021/day/18)
-enum NestedArray<T> {
+pub enum NestedArray<T> {
     Literal(T),
     List(Vec<NestedArray<T>>),
 }
