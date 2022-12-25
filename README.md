@@ -4,7 +4,7 @@ An Advent Of Code utils crate
 
 Please read the [API documentation here](https://docs.rs/elves/).
 
-![ci](https://github.com/janezicmatej/elves/actions/workflows/ci.yml/badge.svg)
+![lint](https://github.com/janezicmatej/elves/actions/workflows/lint.yml/badge.svg)
 [![crates.io](https://img.shields.io/crates/v/elves.svg)](https://crates.io/crates/elves)
 
 How to use with Cargo:
